@@ -50,7 +50,7 @@ header .container{
       font-size: 16px;
       background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/home/rael/recriando-a-interface-Netflix/img/capa-the-good-doctor.jpg');
 
-      height: 400px;
+      height: 600px;
       background-size: cover;
 
       display: flex;
@@ -98,4 +98,10 @@ header .container{
 
   .filme-principal .container{
       width: 70%;
+  }
+
+  .box-filme{
+      height: 100%;
+      width: 100%;
+      display: block;
   }
